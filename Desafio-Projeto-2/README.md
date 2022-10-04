@@ -1,6 +1,18 @@
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
+> ## Resultado
+
+[Clique aqui](https://thamyresarm.github.io/dio-formacao-html-web/Desafio-Projeto-2/index.html) para acessar a pagina.
+
+![image](https://user-images.githubusercontent.com/24790794/193881048-8fae313b-9f0d-4212-9119-428e0013afe5.png)
+
+![image](https://user-images.githubusercontent.com/24790794/193880950-dacb0a91-a6a2-435d-8a16-0dd0bd3c7996.png)
+
+![image](https://user-images.githubusercontent.com/24790794/193881131-b0f304b4-4d4f-4311-a7dd-78ee771a4bdb.png)
+
+![image](https://user-images.githubusercontent.com/24790794/193881193-2a0686ff-1d33-44eb-ae1c-e9d050d1b082.png)
+
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
 - Estruturação e formatação de texto
