@@ -2,6 +2,12 @@
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
+> ## Resultado
+
+[Clique aqui](https://thamyresarm.github.io/dio-formacao-html-web/Desafio-Projeto-3/index.html) para acessar a pagina.
+
+![image](https://user-images.githubusercontent.com/24790794/193871482-53d7755f-acd9-496f-b0e2-823e76533ce9.png)
+
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
