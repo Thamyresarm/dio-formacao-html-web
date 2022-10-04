@@ -1,7 +1,8 @@
 # Trilha HTML - Dio.me
 
 ## > Resultado
-[Clique aqui](https://thamyresarm.github.io/dio-formacao-html-web/Desafio-Projeto-3/index.html) para acessar a pagina.
+[Clique aqui](https://thamyresarm.github.io/dio-formacao-html-web/Desafio-Projeto-1/index.html) para acessar a pagina.
+
 ![image](https://user-images.githubusercontent.com/24790794/193870824-704d3b09-ed85-4c4d-ac96-c3cc5cc1ae82.png)
 
 ## Módulo 01 - Primeiros passos com HTML
