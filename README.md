@@ -14,4 +14,4 @@
 
 **Desafio 3:** [Clique aqui](https://thamyresarm.github.io/dio-formacao-html-web/Desafio-Projeto-3/index.html) para acessar a pagina.
 
-![image](https://user-images.githubusercontent.com/24790794/193872887-0214668c-c2fe-437c-8d63-def60c2cc332.png)
+![image](https://user-images.githubusercontent.com/24790794/194065415-cf4cd81b-d03e-4168-b7c8-7737c5508ff5.png)
