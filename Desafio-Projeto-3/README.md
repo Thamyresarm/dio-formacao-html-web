@@ -21,5 +21,6 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
+- [HTML Special Characters](https://www.html.am/reference/html-special-characters.cfm)
 
 
